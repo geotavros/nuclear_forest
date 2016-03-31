@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/nd_syrdakh/sr_nature/rock_01_sr"	
+	"$bumpmap" 	   "maps/nd_syrdakh/sr_nature/rock_01_sr_normal"
+	
+	"$surfaceprop" "rock"
+	
+	$seamless_scale 0.005
+}

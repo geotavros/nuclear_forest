@@ -1,0 +1,118 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "5916"
+	"mapversion" "9"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "128"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "9"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_tokyo"
+}
+entity
+{
+	"id" "2"
+	"classname" "nd_info_delivery_platform_ct"
+	"angles" "0 0 0"
+	"spawnflags" "0"
+	"origin" "0 768 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "14"
+	"classname" "nd_info_command_bunker_ct"
+	"angles" "0 270 0"
+	"spawnflags" "0"
+	"StructureType" "0"
+	"Team" "2"
+	"origin" "0 256 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "16"
+	"classname" "nd_info_transport_gate_ct"
+	"angles" "0 90 0"
+	"spawnflags" "0"
+	"StructureType" "2"
+	"Team" "2"
+	"origin" "-511.932 -255.932 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "18"
+	"classname" "nd_info_transport_gate_ct"
+	"angles" "0 90 0"
+	"spawnflags" "0"
+	"StructureType" "2"
+	"Team" "2"
+	"origin" "512.068 -255.932 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "23"
+	"classname" "nd_info_machinegun_turret_ct"
+	"angles" "0 0 0"
+	"spawnflags" "0"
+	"origin" "0 -384 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+cameras
+{
+	"activecamera" "-1"
+}
+cordons
+{
+	"active" "0"
+}

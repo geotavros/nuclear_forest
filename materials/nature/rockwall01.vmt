@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature/MineRockWall"	
+	"$bumpmap" 	   "nature/MineRockWall_normal"
+	
+	$detail 	   "overlays/macro01a"
+	
+	"$surfaceprop" "rock"
+	
+	//$seamless_scale 0.005
+}

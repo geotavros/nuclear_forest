@@ -1,0 +1,22 @@
+"nuclear_forest02"
+{
+        "name" "Nuclear Forest"
+        "description" "-"
+
+	// Properties for RTS camera
+	"rts_camera"
+	{
+		"zoffset"		    "0"		// offset the z height for maps way-off
+		"default_height" 	"600"		// Default height of the rts camera
+		"max_height"		"1600"		// Max height above the adjusted zoffset the camera can go
+		"min_height"		"100"		// Min height above the adjusted zoffset the camera can go
+		"low_pitch"		  "20"		// Angle of pitch when camera is at min_height
+		"high_pitch"		"80"		// Angle of pitch when camera is at max_height
+		"low_fov"		    "0"		// FOV angle difference when camera is at min_height	(MUST BE >= 0)
+		"high_fov"		  "10"		// FOV angle difference when camera is at max_height
+		"ct_starting_rotation"	"312"
+		"emp_starting_rotation"	"45"
+	}
+  
+  "compass_rotation"	"0" // is optional. It sets the initial orientation of the compass which is under the minimap.
+}

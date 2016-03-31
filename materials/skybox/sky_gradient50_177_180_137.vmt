@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "skybox/sky_gradient50_177_180_137"
+  $translucent 1
+}

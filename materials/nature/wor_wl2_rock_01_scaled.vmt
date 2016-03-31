@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "WL2_WorldTex\WOR_WL2_Nature\WOR_WL2_Rock_01"	
+       "$surfaceprop" "rock"
+  $seamless_scale 0.01
+
+}

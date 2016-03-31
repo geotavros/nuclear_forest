@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture2" "WL2_WorldTex\WOR_WL2_Nature\WOR_WL2_Grass_01"
+	"$basetexture" "WL2_WorldTex\WOR_WL2_Nature\WOR_WL2_Dirt_02"
+	"%tooltexture" "WL2_WorldTex\WOR_WL2_Nature\Blend_WOR_WL2_Grass_Dirt_02_tooltexture"
+"%detailtype" 	"grass_ny_dense"
+	"$surfaceprop" "dirt"
+	"$surfaceprop2"	"dirt"
+  $seamless_scale 0.002
+}

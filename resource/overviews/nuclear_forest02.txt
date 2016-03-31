@@ -1,0 +1,10 @@
+nuclear_forest02
+{
+	material	overviews/nuclear_forest02	// texture file
+	pos_x		-1509			// X coordinate
+	pos_y		8702			// Y coordinate
+	scale		11.00 			// scale used when taking the screenshot
+	rotate		0			// map was rotated by 90 degrees in image editor
+	zoom		1.0			// optimal zoom factor if map is shown in full size
+}
+
